@@ -37,6 +37,9 @@ Check homoscedasticity
 
 ## Program:
 ```
+/*
+Program to implement Linear and Polynomial Regression models for predicting car prices.
+
 import pandas as pd
 import numpy as np
 
@@ -99,6 +102,10 @@ plt.xlabel("Predicted Price($)")
 plt.ylabel("Residuals($)")
 plt.grid(True)
 plt.show()
+
+Developed by: Lakshiya Rajkumar
+RegisterNumber:  25000390
+*/
 ```
 
 ## Output:
